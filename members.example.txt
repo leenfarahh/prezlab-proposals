@@ -1,0 +1,12 @@
+# Proposals Hub member list: everyone who can sign in and view proposals.
+# Copy this file to members.txt (kept out of git) and replace the examples.
+#
+# One person per line. Paste emails straight from an Odoo export: anything on
+# a line that isn't an email (names, departments, commas) is ignored.
+# Lines starting with # are comments.
+#
+# People in HUB_WHITELIST don't need to be listed here; they're always members.
+# Changes apply within a few seconds, no restart needed.
+
+first.person@prezlab.com
+"Second Person","second.person@prezlab.com","Design"
